@@ -20,6 +20,13 @@
   padding-bottom: 1em;
 }
 
+.footer {
+  position: relative;
+  width: 550px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 a {
   color: #FAFAFA;
   background-color: #FF3900;
