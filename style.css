@@ -1,0 +1,25 @@
+
+.header {
+  text-align: center;
+}
+
+.content {
+  position: relative;
+  width: 550px;
+  padding: 2em;
+  border-radius: 20px;
+
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #3C5D7E;
+
+  color: #CFBEAE;
+}
+
+.content > div {
+  padding-bottom: 1em;
+}
+
+a {
+  color: #CFBEAE;
+}
