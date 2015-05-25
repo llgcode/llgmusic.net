@@ -1,10 +1,16 @@
 
 body {
   background-color: #D6D7CA;
+  font-family: 'Muli', sans-serif;
+
+  font-size: 12pt;
+  font-weight: 300;
 }
 
 .header {
   text-align: center;
+  font-size: 15pt;
+  font-weight: 400;
 }
 
 .content {
@@ -15,9 +21,9 @@ body {
 
   margin-right: auto;
   margin-left: auto;
-  background-color: #ECEDEF;
+  background-color: #F4F4F4;
 
-  color: #734E4E;
+  color: #6B6B6B;
 }
 
 .content > div {
