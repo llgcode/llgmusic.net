@@ -1,4 +1,8 @@
 
+body {
+  background-color: #D6D7CA;
+}
+
 .header {
   text-align: center;
 }
@@ -11,9 +15,9 @@
 
   margin-right: auto;
   margin-left: auto;
-  background-color: #3C5D7E;
+  background-color: #ECEDEF;
 
-  color: #FAFAFA;
+  color: #734E4E;
 }
 
 .content > div {
@@ -25,14 +29,19 @@
   width: 550px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 1em;
 }
 
 a {
-  color: #FAFAFA;
-  background-color: #FF3900;
+  color: #5B577E;
+  background-color: #D6D7CA;
   border-radius: 3px;
   text-decoration: none;
+}
 
+a:hover {
+  color: #000000;
+  background-color: #ECEDEF;
 }
 
 a > img {
