@@ -52,6 +52,7 @@ body {
 .content>.videos {
   display: inline-block;
   text-align: center;
+  text-indent: 0;
 }
 
 .social {
